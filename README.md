@@ -1,7 +1,7 @@
 # 🚗 Car Price Prediction using Machine Learning
 ---
 
-<img src = "https://i.postimg.cc/3x9RgPnz/ml-img.png" height=autofill width=autofill>
+<img src = "https://i.postimg.cc/3x9RgPnz/ml-img.png" >
 
 ---
 ## 📌 Project Overview
