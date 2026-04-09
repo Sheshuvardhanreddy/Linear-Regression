@@ -1,9 +1,8 @@
 # 🚗 Car Price Prediction using Machine Learning
 ---
 
-<img src = "https://i.postimg.cc/3x9RgPnz/ml-img.png" >
+<img src = "https://postimg.cc/3k4YhbMZ" >
 
----
 ## 📌 Project Overview
 This project focuses on predicting car prices using machine learning techniques. It involves data cleaning, exploratory data analysis (EDA), feature engineering, and building regression models to estimate vehicle prices based on various attributes.
 
